@@ -12,4 +12,8 @@ Note:CEBPA和HNF4A都是肝脏特异的转录因子
 
 
 人和chimpanzee、gorilla的全基因组比对数据
+human-chimpanzee alignment:http://hgdownload.soe.ucsc.edu/goldenPath/hg38/vsPanTro6/
+.net.axt.gz文件解释：http://genome.ucsc.edu/goldenPath/help/axt.html
+.all.chain.gz文件解释：http://genome.ucsc.edu/goldenPath/help/chain.html
+
 
